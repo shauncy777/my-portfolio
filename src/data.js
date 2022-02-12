@@ -53,6 +53,24 @@ export const projects = [
     link: "https://codepen.io/shawn-daugherty-calhoun/full/eYgEYMw",
     github_link: "https://github.com/shauncy777/Techdegree-project-1",
   },
+  {
+    title: "Personal Portfolio",
+    subtitle: "Express.js, Node, Pug, JavaScript, CSS, HTML",
+    description:
+      "This is a portfolio site to showcase the projects I've built. The site contains a modern landing page, an about page where I share contact info and give a little background and a series of project pages from the TeamTreehouse Techdegree.",
+    image: "./portfolio-capture.gif",
+    link: "https://shauncy-portfolio.herokuapp.com/",
+    github_link: "https://github.com/shauncy777/project-6-portfolio",
+  },
+  {
+    title: "Interactive Web Form",
+    subtitle: "JavaScript, CSS, HTML",
+    description:
+      "An interactive registration form for a fictional Full Stack conference which uses JavaScript to enable conditional behavior and interactivity by validating user input and providing helpful error messages when the user enters invalid information.",
+    image: "./form-capture.gif",
+    link: "https://shauncy777.github.io/project-3/",
+    github_link: "https://github.com/shauncy777/proj3-FSJS-interactiveForm",
+  },
 ];
 
 export const testimonials = [

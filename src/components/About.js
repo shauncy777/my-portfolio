@@ -29,7 +29,7 @@ export default function About() {
     </div>
     <div className="lg:max-w-sm sm:w-full md:w-1/2 w-5/6 rounded-full">
       <img
-        className="object-fill	 rounded-full"
+        className="object-fill	 rounded-full bg-blend-darken"
         alt="hero"
         src="./FullSizeRender.jpeg"
       />

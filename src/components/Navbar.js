@@ -29,7 +29,7 @@ export default function Navbar() {
         </nav>
         <a className="mr-3 hover:text-white"><SocialMediaIconsReact borderColor="rgba(0,0,0,0.25)" borderWidth="1" borderStyle="solid" icon="github" iconColor="rgba(255,255,255,1)" backgroundColor="bg-indigo-500" iconSize="4" roundness="20%" url="https://github.com/shauncy777" size="40" />
           </a>
-          <a className="mr-10"><SocialMediaIconsReact  className="mr-20" borderColor="rgba(0,0,0,0.25)" borderWidth="1" borderStyle="solid" icon="linkedin" iconColor="rgba(255,255,255,1)" backgroundColor="bg-indigo-500" iconSize="1" roundness="20%" url="https://www.linkedin.com/in/s-d-calhoun/" size="40"/>
+          <a className="mr-3 "><SocialMediaIconsReact   borderColor="rgba(0,0,0,0.25)" borderWidth="1" borderStyle="solid" icon="linkedin" iconColor="rgba(255,255,255,1)" backgroundColor="bg-indigo-500" iconSize="1" roundness="20%" url="https://www.linkedin.com/in/s-d-calhoun/" size="40"/>
           </a>
         <a
           href="#contact"

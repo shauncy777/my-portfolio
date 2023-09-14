@@ -2,7 +2,7 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from 'react';
 import {SocialMediaIconsReact} from 'social-media-icons-react';
-import Pdf from '../Documents.pdf/resume_2022.pdf' ;
+import Pdf from '../Documents.pdf/resume_2023.pdf' ;
 
 
 
